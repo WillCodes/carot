@@ -23,6 +23,9 @@ The frontend of the app will be written in React Native using JavaScript.
 ### Automatic Shopping List Generation
 [put more detail here later]
 
+### Receipt Scanning to Update Inventory
+[put more detail here later]
+
 
 and much more!!
 
